@@ -29,31 +29,11 @@ To use, you can use the fetch API in a separate front-end, or you can use an HTT
 
 Example GraphQL query:
 
-{ 
-
-  allFood { 
-  
-    id
-    
-    food_name 
-    
-  } 
-  
-}
+graphql query { allFood { id food_name } }
 
 Example GraphQL mutation:
 
-{ 
-
-  addFood(food_name: "Pizza", chefId: 1, restaurantId: 1) {
-    
-    id
-    
-    food_name
-    
-    }
-    
-}
+graphql mutation { addFood(food_name: "Pizza", chefId: 1, restaurantId: 1) { id food_name } }
 
 ## Troubleshooting
 
