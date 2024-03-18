@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project is a Node.js application that serves as a GraphQL server interacting with a MySQL database. It provides a GraphQL API for querying and mutating data stored in the MySQL database. This project can be used for testing, for learning, or as a reference if you are building a GraphQL API. It utilizes technologies such as Node.js, GraphQL, and MySQL.
+This project is a Node.js application, made by Findof, that serves as a GraphQL server interacting with a MySQL database. It provides a GraphQL API for querying and mutating data stored in the MySQL database. This project can be used for testing, for learning, or as a reference if you are building a GraphQL API. It utilizes technologies such as Node.js, GraphQL, and MySQL.
 
 ## Prerequisites
 
